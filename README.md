@@ -25,3 +25,8 @@ Jupyter Notebook: Interactive coding environment for developing and testing
 4. Workflow
 Describe the steps involved in my project:
 Data Loading: Import data from files like CSV.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/95be66dd-6411-47b9-af35-55ec8be126e5)
+
